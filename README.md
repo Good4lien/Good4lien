@@ -3,6 +3,9 @@
 
 
 #### My profile at HackerRank: https://www.hackerrank.com/roma11_11
+<div class='awards'>
+    <img src="aw.JPG" alt="a">
+</div>
 
 <div class='cert'>
 <a href='https://www.hackerrank.com/certificates/cfa2ab8f318f'>
@@ -13,9 +16,7 @@
 </a>
 </div>
 
-<div class='awards'>
-    <img src="aw.JPG" alt="a">
-</div>
+
 
 
 
