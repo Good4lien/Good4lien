@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 <div class='hr'>
-###My profile at HackerRank: https://www.hackerrank.com/roma11_11
+###My profile at HackerRank:
+    https://www.hackerrank.com/roma11_11
 <div class='awards'>
     <img src="aw.JPG" alt="a">
 </div>
