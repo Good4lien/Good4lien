@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 
 <div class='hr'>
-My profile at HackerRank: https://www.hackerrank.com/roma11_11
+###My profile at HackerRank: https://www.hackerrank.com/roma11_11
 <div class='awards'>
-    <img src="aw.JPG" alt="альтернативный текст">
+    <img src="aw.JPG" alt="a">
 </div>
 <div class='cert'>
 <a href='https://www.hackerrank.com/certificates/cfa2ab8f318f'>
-    <img src="c1.png" alt="альтернативный текст">
+    <img src="c1.png" alt="1">
 </a>
 <a href='https://www.hackerrank.com/certificates/f3a02f1473a8'>
-    <img src="c2.png" alt="альтернативный текст">
+    <img src="c2.png" alt="2">
 </a>
 </div>
 </div>
