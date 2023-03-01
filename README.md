@@ -6,6 +6,19 @@
     <img src="aw.JPG" alt="a">
 </div>
 
+
+
+
+
+Languages:
+
+
+Connect with me:
+
+<a href="https://t.me/wa1pper" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" style="max-width: 100%;"></a>
+
+
+
 ### My profile at HackerRank: https://www.hackerrank.com/roma11_11
 
 <div class='cert'>
