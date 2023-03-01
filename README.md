@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 <div>
-<img src="https://i.pinimg.com/originals/c3/28/b3/c328b3e2aaea496c2b24a3a685f6ad27.jpg" alt="альтернативный текст">
+My profile at HackerRank: https://www.hackerrank.com/roma11_11
 </div>
