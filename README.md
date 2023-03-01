@@ -4,10 +4,10 @@
 </div>
 <div class='cert'>
 <a href='https://www.hackerrank.com/certificates/cfa2ab8f318f'>
-    <img src="c1.png" alt="1" style="max-width: 200px;>>
+    <img src="c1.png" alt="1" style="width: 200px;>>
 </a>
     <a href='https://www.hackerrank.com/certificates/f3a02f1473a8'>
-    <img src="c2.png" alt="2" style="max-width: 200px;>
+    <img src="c2.png" alt="2" style="width: 200px;>
 </a>
 </div>
 
