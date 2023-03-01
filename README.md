@@ -1,6 +1,5 @@
-<h1 align="center">Hi there, I'm Roman<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-    <h2>My profile at HackerRank: https://www.hackerrank.com/roma11_11</h2>
-</h1>
+<h1 align="center">Hi there, I'm Roman<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+### My profile at HackerRank: https://www.hackerrank.com/roma11_11
 
 <div class='awards'>
     <img src="aw.JPG" alt="a">
