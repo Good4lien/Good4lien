@@ -5,8 +5,7 @@
 <div class='cert'>
 <a href='https://www.hackerrank.com/certificates/cfa2ab8f318f'>
     <img src="c1.png" alt="1">
-</a>
-<a href='https://www.hackerrank.com/certificates/f3a02f1473a8'>
+</a><a href='https://www.hackerrank.com/certificates/f3a02f1473a8'>
     <img src="c2.png" alt="2">
 </a>
 </div>
