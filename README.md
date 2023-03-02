@@ -28,7 +28,7 @@ Languages:
     <img align="center" src="js.svg" alt="1" height="40" width="40" style="max-width: 100%;">
     <img align="center" src="html.png" alt="1" height="40" width="40" style="max-width: 100%;">
     <img align="center" src="css.svg" alt="1" height="44" width="44" style="max-width: 100%;">
-    <img align="center" src="s.jpg" alt="1" height="40" width="40" style="max-width: 100%;">
+    <img align="center" src="sql.svg" alt="1" height="40" width="40" style="max-width: 100%;">
     <img align="center" src="p.png" alt="1" height="40" width="40" style="max-width: 100%;">
     <img align="center" src="a.png" alt="1" height="50" width="50" style="max-width: 100%;">
 </p>
