@@ -18,6 +18,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Good4lien&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Good4lien&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
