@@ -6,8 +6,8 @@
     <img src="aw.JPG" alt="a">
 </div>
 
-<h2>
-    I'm programmer. If you here please give me a star
+<h3>
+    If you here please give me a star
 </h2>
 
 ### Connect with me:
