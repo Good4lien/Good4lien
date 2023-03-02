@@ -18,9 +18,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Good4lien&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Good4lien)](https://git.io/streak-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Good4lien&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
