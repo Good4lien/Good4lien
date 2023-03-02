@@ -21,7 +21,10 @@ Connect with me:
 
 Languages:
 <p align="left" dir="auto">
-    
+    <img align="center" src="cs.svg" alt="1" height="40" width="40" style="max-width: 100%;">
+    <img align="center" src="python.svg" alt="1" height="40" width="40" style="max-width: 100%;">
+    <img align="center" src="Telegram.svg" alt="1" height="40" width="40" style="max-width: 100%;">
+    <img align="center" src="Telegram.svg" alt="1" height="40" width="40" style="max-width: 100%;">
 </p>
 
 
