@@ -1,7 +1,3 @@
-
-![](https://komarev.com/ghpvc/?username=Good4lien&color=green)
-
-
 <h1 align="center">
     Hi there, I'm Roman <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>
 </h1>
@@ -62,7 +58,7 @@
 </a>
 </div>
 
-
+![](https://komarev.com/ghpvc/?username=Good4lien&color=green)
 
 
 
