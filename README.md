@@ -19,7 +19,7 @@
 <a a rel="noopener" data-link="mailto:romanbugrin7@ya.ru" href="mailto:romanbugrin7@ya.ru" target="_top"><img align="center" src="m.svg" alt="1" height="50" width="50" style="max-width: 100%;"></a>
 </p>
 
-### Languages:
+### My languages:
 <p align="left" dir="auto">
     <img align="center" src="j.jpg" alt="1" height="40" width="27" style="max-width: 100%;">
     <img align="center" src="cpp.svg" alt="1" height="45" width="45" style="max-width: 100%;">
