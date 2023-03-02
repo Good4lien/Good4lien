@@ -13,9 +13,11 @@
     
 </h4>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Good4lien&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Good4lien)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Good4lien&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
