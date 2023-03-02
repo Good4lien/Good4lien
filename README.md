@@ -14,9 +14,10 @@ Languages:
 
 
 Connect with me:
-
-<a style="padding:10px;" href="https://t.me/romanbugrin7" rel="nofollow"><img align="center" src="Telegram.svg" alt="daniilshat" height="40" width="40" style="max-width: 100%;"></a><a href="https://vk.com/bugrinroman" rel="nofollow"><img align="center" src="vk.svg" alt="daniilshat" height="40" width="40" style="max-width: 100%;"></a><a href="https://www.instagram.com/roman.bugrin/" rel="nofollow"><img align="center" src="inst.svg" alt="daniilshat" height="40" width="40" style="max-width: 100%;"></a>
-
+<p align="left" dir="auto">
+<a href="https://t.me/romanbugrin7" rel="nofollow"><img align="center" src="Telegram.svg" alt="daniilshat" height="40" width="40" style="max-width: 100%;"></a>
+<a href="https://vk.com/bugrinroman" rel="nofollow"><img align="center" src="vk.svg" alt="daniilshat" height="40" width="40" style="max-width: 100%;"></a><a href="https://www.instagram.com/roman.bugrin/" rel="nofollow"><img align="center" src="inst.svg" alt="daniilshat" height="40" width="40" style="max-width: 100%;"></a>
+</p>
 
 
 ### My profile at HackerRank: https://www.hackerrank.com/roma11_11
