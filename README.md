@@ -1,14 +1,14 @@
 <h1 align="center">
     Hi there, I'm Roman <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>
-    I'm programmer. If you here please give me a star
 </h1>
-
 
 <div class='awards'>
     <img src="aw.JPG" alt="a">
 </div>
 
-
+<h2>
+    I'm programmer. If you here please give me a star
+</h2>
 
 ### Connect with me:
 <p align="left" dir="auto">
