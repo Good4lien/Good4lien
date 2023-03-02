@@ -11,8 +11,8 @@
 
 
 
-
-<p align="left" dir="auto"><h2>Connect with me:</h2>
+<h2>Connect with me:</h2>
+<p align="left" dir="auto">
 <a href="https://t.me/romanbugrin7" rel="nofollow"><img align="center" src="Telegram.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
 <a href="https://vk.com/bugrinroman" rel="nofollow"><img align="center" src="vk.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
 <a href="https://www.instagram.com/roman.bugrin/" rel="nofollow"><img align="center" src="inst.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
@@ -24,7 +24,7 @@ Languages:
     
 </p>
 
-
+<hr>
 ### My profile at HackerRank: https://www.hackerrank.com/roma11_11
 
 <div class='cert'>
