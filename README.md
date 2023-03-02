@@ -17,9 +17,8 @@ Connect with me:
 <a href="https://t.me/romanbugrin7" rel="nofollow"><img align="center" src="Telegram.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
 <a href="https://vk.com/bugrinroman" rel="nofollow"><img align="center" src="vk.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
 <a href="https://www.instagram.com/roman.bugrin/" rel="nofollow"><img align="center" src="inst.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
-<a a rel="noopener" data-link="mailto:romanbugrin7@ya.ru" href="mailto:romanbugrin7@ya.ru" target="_top"><img align="center" src="m.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
+<a a rel="noopener" data-link="mailto:romanbugrin7@ya.ru" href="mailto:romanbugrin7@ya.ru" target="_top"><img align="center" src="m.svg" alt="1" height="50" width="50" style="max-width: 100%;"></a>
 </p>
-<a rel="noopener" data-link="mailto:romanbugrin7@ya.ru" href="mailto:romanbugrin7@ya.ru" target="_top" class="button btn-link btn-link-styled without-thumb"><div><div class="btn-link-title">Напишите мне</div></div></a>
 
 Languages:
 <p align="left" dir="auto">
