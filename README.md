@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Roman <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">
-    If you here please give me a stars 
+    If you here please give me a star
 </h3>
 
 
@@ -40,11 +40,11 @@
 
 ### My profile at HackerRank: https://www.hackerrank.com/roma11_11
 
-<div class='cert'>
+<div class='cert'style="border: 20px solid grey;">
 <a href='https://www.hackerrank.com/certificates/cfa2ab8f318f'>
     <img src="c1.png" alt="1" style="width: 300px; border: 20px solid grey;">
 </a>
-    <a href='https://www.hackerrank.com/certificates/f3a02f1473a8'>
+    <a style="border: 20px solid grey;" href='https://www.hackerrank.com/certificates/f3a02f1473a8'>
     <img src="c2.png" alt="2" style="width: 300px; border: 30px solid smoke-grey;">
 </a>
 </div>
