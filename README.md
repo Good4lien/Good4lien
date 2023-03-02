@@ -6,7 +6,7 @@
     <img src="aw.JPG" alt="a">
 </div>
 
-<h4>
+<h4 align="center">
     If you here please give me a star
 </h4>
 
