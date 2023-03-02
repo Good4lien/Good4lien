@@ -25,7 +25,7 @@ Languages:
     <img align="center" src="python.svg" alt="1" height="40" width="40" style="max-width: 100%;">
     <img align="center" src="js.svg" alt="1" height="40" width="40" style="max-width: 100%;">
     <img align="center" src="html.png" alt="1" height="40" width="40" style="max-width: 100%;">
-    <img align="center" src="css.svg" alt="1" height="43" width="43" style="max-width: 100%;">
+    <img align="center" src="css.svg" alt="1" height="44" width="44" style="max-width: 100%;">
 </p>
 
 
