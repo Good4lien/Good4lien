@@ -24,7 +24,9 @@ Languages:
     
 </p>
 
-<hr>
+
+
+
 ### My profile at HackerRank: https://www.hackerrank.com/roma11_11
 
 <div class='cert'>
