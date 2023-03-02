@@ -3,7 +3,7 @@
 </h1>
 
 <div class='awards'>
-    <img src="b.JPG" alt="a" height="90%" width="90%">
+    <img src="img/b.JPG" alt="a" height="90%" width="90%">
 </div>
 
 <h4 align="center">
@@ -27,33 +27,33 @@
 
 ### Connect with me:
 <p align="left" dir="auto">
-<a href="https://t.me/romanbugrin7" rel="nofollow"><img align="center" src="Telegram.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
-<a href="https://vk.com/bugrinroman" rel="nofollow"><img align="center" src="vk.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
-<a href="https://www.instagram.com/roman.bugrin/" rel="nofollow"><img align="center" src="inst.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
-<a a rel="noopener" data-link="mailto:romanbugrin7@ya.ru" href="mailto:romanbugrin7@ya.ru" target="_top"><img align="center" src="m.svg" alt="1" height="50" width="50" style="max-width: 100%;"></a>
+<a href="https://t.me/romanbugrin7" rel="nofollow"><img align="center" src="img/Telegram.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
+<a href="https://vk.com/bugrinroman" rel="nofollow"><img align="center" src="img/vk.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/roman.bugrin/" rel="nofollow"><img align="center" src="img/inst.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
+<a a rel="noopener" data-link="mailto:romanbugrin7@ya.ru" href="mailto:romanbugrin7@ya.ru" target="_top"><img align="center" src="img/m.svg" alt="1" height="50" width="50" style="max-width: 100%;"></a>
 </p>
 
 ### My languages:
 <p align="left" dir="auto">
-    <img align="center" src="j.jpg" alt="1" height="40" width="27" style="max-width: 100%;">
-    <img align="center" src="cpp.svg" alt="1" height="45" width="45" style="max-width: 100%;">
-    <img align="center" src="cs.svg" alt="1" height="40" width="40" style="max-width: 100%;">
-    <img align="center" src="python.svg" alt="1" height="40" width="40" style="max-width: 100%;">
-    <img align="center" src="js.svg" alt="1" height="40" width="40" style="max-width: 100%;">
-    <img align="center" src="s.svg" alt="1" height="40" width="40" style="max-width: 100%;">
-    <img align="center" src="html.png" alt="1" height="40" width="40" style="max-width: 100%;">
-    <img align="center" src="css.svg" alt="1" height="44" width="44" style="max-width: 100%;">
-    <img align="center" src="p.png" alt="1" height="40" width="40" style="max-width: 100%;">
-    <img align="center" src="a.png" alt="1" height="50" width="50" style="max-width: 100%;">
+    <img align="center" src="img/j.jpg" alt="1" height="40" width="27" style="max-width: 100%;">
+    <img align="center" src="img/cpp.svg" alt="1" height="45" width="45" style="max-width: 100%;">
+    <img align="center" src="img/cs.svg" alt="1" height="40" width="40" style="max-width: 100%;">
+    <img align="center" src="img/python.svg" alt="1" height="40" width="40" style="max-width: 100%;">
+    <img align="center" src="img/js.svg" alt="1" height="40" width="40" style="max-width: 100%;">
+    <img align="center" src="img/s.svg" alt="1" height="40" width="40" style="max-width: 100%;">
+    <img align="center" src="img/html.png" alt="1" height="40" width="40" style="max-width: 100%;">
+    <img align="center" src="img/css.svg" alt="1" height="44" width="44" style="max-width: 100%;">
+    <img align="center" src="img/p.png" alt="1" height="40" width="40" style="max-width: 100%;">
+    <img align="center" src="img/a.png" alt="1" height="50" width="50" style="max-width: 100%;">
 </p>
 
 ### My profile at HackerRank: https://www.hackerrank.com/roma11_11
 
 <div class='cert'>
 <a href='https://www.hackerrank.com/certificates/cfa2ab8f318f'>
-    <img src="c1.png" alt="1" style="width: 260px;">
+    <img src="img/c1.png" alt="1" style="width: 260px;">
 </a>
     <a href='https://www.hackerrank.com/certificates/f3a02f1473a8'>
-    <img src="c2.png" alt="2" style="width: 260px; ">
+    <img src="img/c2.png" alt="2" style="width: 260px; ">
 </a>
 </div>
