@@ -9,9 +9,7 @@
 <h4 align="center">
     I am a Python programmer with 5 years of experience in software engineering. I specialize in developing user-friendly applications and web services using Python. I also have a good understanding of object-oriented programming and functional programming. I am experienced in using frameworks such as Django and Flask, as well as libraries such as NumPy, Pandas, and SciPy. Additionally, I have developed machine learning projects using TensorFlow and Keras. I have a Bachelor's degree in Computer Science and I am looking to expand my knowledge and experience in the field of Python programming.
     
-     If you here please give me a star <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
-    <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
-</svg>
+     If you here please give me a star ⭐
     
 </h4>
 
