@@ -11,8 +11,9 @@
 
 
 
-
+<h2>
 Connect with me:
+</h2>
 <p align="left" dir="auto">
 <a href="https://t.me/romanbugrin7" rel="nofollow"><img align="center" src="Telegram.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
 <a href="https://vk.com/bugrinroman" rel="nofollow"><img align="center" src="vk.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
