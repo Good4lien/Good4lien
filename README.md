@@ -57,8 +57,3 @@
     <img src="c2.png" alt="2" style="width: 260px; ">
 </a>
 </div>
-<hr>
-
-![](https://komarev.com/ghpvc/?username=Good4lien&color=green)
-
-
