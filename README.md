@@ -21,7 +21,7 @@ Connect with me:
 
 Languages:
 <p align="left" dir="auto">
-    <img align="center" src="j.jpg" alt="1" height="40" width="35" style="max-width: 100%;">
+    <img align="center" src="j.jpg" alt="1" height="40" width="30" style="max-width: 100%;">
     <img align="center" src="cpp.svg" alt="1" height="45" width="45" style="max-width: 100%;">
     <img align="center" src="cs.svg" alt="1" height="40" width="40" style="max-width: 100%;">
     <img align="center" src="python.svg" alt="1" height="40" width="40" style="max-width: 100%;">
