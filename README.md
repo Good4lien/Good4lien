@@ -15,9 +15,7 @@ Languages:
 
 Connect with me:
 
-<a href="https://t.me/romanbugrin7" rel="nofollow"><img align="center" src="Telegram.svg" alt="daniilshat" height="40" width="40" style="max-width: 100%;"></a>
-
-<a href="https://vk.com/bugrinroman" rel="nofollow"><img align="center" src="vk.svg" alt="daniilshat" height="40" width="40" style="max-width: 100%;"></a>
+<a href="https://t.me/romanbugrin7" rel="nofollow"><img align="center" src="Telegram.svg" alt="daniilshat" height="40" width="40" style="max-width: 100%;"></a><a href="https://vk.com/bugrinroman" rel="nofollow"><img align="center" src="vk.svg" alt="daniilshat" height="40" width="40" style="max-width: 100%;"></a>
 
 
 
@@ -25,10 +23,10 @@ Connect with me:
 
 <div class='cert'>
 <a href='https://www.hackerrank.com/certificates/cfa2ab8f318f'>
-    <img src="c1.png" alt="1" style="width: 200px;">
+    <img src="c1.png" alt="1" style="width: 300px;">
 </a>
     <a href='https://www.hackerrank.com/certificates/f3a02f1473a8'>
-    <img src="c2.png" alt="2" style="width: 200px;">
+    <img src="c2.png" alt="2" style="width: 300px;">
 </a>
 </div>
 
