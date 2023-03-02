@@ -3,7 +3,7 @@
 </h1>
 
 <div class='awards'>
-    <img src="aw.JPG" alt="a" style="width: 90%;">
+    <img src="b.JPG" alt="a">
 </div>
 
 <h4 align="center">
