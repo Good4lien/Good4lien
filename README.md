@@ -10,7 +10,6 @@
 
 
 
-
 ### Connect with me:
 <p align="left" dir="auto">
 <a href="https://t.me/romanbugrin7" rel="nofollow"><img align="center" src="Telegram.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
@@ -38,12 +37,12 @@
 
 ### My profile at HackerRank: https://www.hackerrank.com/roma11_11
 
-<div class='cert' style="border: 2px solid;">
+<div class='cert'>
 <a href='https://www.hackerrank.com/certificates/cfa2ab8f318f'>
-    <img src="c1.png" alt="1" style="width: 300px; border: 20px solid grey;">
+    <img src="c1.png" alt="1" style="width: 260px;">
 </a>
     <a href='https://www.hackerrank.com/certificates/f3a02f1473a8'>
-    <img src="c2.png" alt="2" style="width: 300px; border: 30px solid smoke-grey;">
+    <img src="c2.png" alt="2" style="width: 260px; ">
 </a>
 </div>
 
