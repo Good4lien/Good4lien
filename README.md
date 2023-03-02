@@ -1,10 +1,10 @@
-<h1 align="center">
-    Hi there, I'm Roman <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>
-</h1>
-
 <div class='awards'>
     <img src="img/a1.JPG" alt="a" height="90%" width="90%">
 </div>
+
+<h1 align="center">
+    Hi there, I'm Roman <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>
+</h1>
 
 <h4 align="center">
     I am a Python programmer with 5 years of experience in software engineering. I specialize in developing user-friendly applications and web services using Python. I also have a good understanding of object-oriented programming and functional programming. I am experienced in using frameworks such as Django and Flask, as well as libraries such as NumPy, Pandas, and SciPy. Additionally, I have developed machine learning projects using TensorFlow and Keras. I have a Bachelor's degree in Computer Science and I am looking to expand my knowledge and experience in the field of Python programming.
