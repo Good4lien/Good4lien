@@ -1,7 +1,7 @@
 <h1 align="center">
     Hi there, I'm Roman <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>
 </h1>
-![](https://komarev.com/ghpvc/?username=Good4lien)
+
 <div class='awards'>
     <img src="b.JPG" alt="a" height="90%" width="90%">
 </div>
