@@ -13,9 +13,9 @@
     
 </h4>
 
-<h4 align="center">
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=Good4lien)](https://github.com/ryo-ma/github-profile-trophy)
-</h4>
+</div>
 
 
 
