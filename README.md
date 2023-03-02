@@ -38,14 +38,14 @@
 
 
 
-#### My profile at HackerRank: https://www.hackerrank.com/roma11_11
+### My profile at HackerRank: https://www.hackerrank.com/roma11_11
 
 <div class='cert'>
 <a href='https://www.hackerrank.com/certificates/cfa2ab8f318f'>
-    <img src="c1.png" alt="1" style="width: 300px; border:30px;">
+    <img src="c1.png" alt="1" style="width: 300px; border: 20px solid grey;">
 </a>
     <a href='https://www.hackerrank.com/certificates/f3a02f1473a8'>
-    <img src="c2.png" alt="2" style="width: 300px; border:50px;">
+    <img src="c2.png" alt="2" style="width: 300px; border: 30px solid smoke-grey;">
 </a>
 </div>
 
