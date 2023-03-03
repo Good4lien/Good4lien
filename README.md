@@ -56,3 +56,5 @@
     <img src="img/c2.png" alt="2" style="width: 260px; ">
 </a>
 </div>
+<br><br>
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife)
