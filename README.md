@@ -24,6 +24,8 @@
 
 
 
+![](https://komarev.com/ghpvc/?username=Good4lien&color=green)
+
 
 ### Connect with me:
 <p align="left" dir="auto">
@@ -57,5 +59,3 @@
     <img src="img/c2.png" alt="2" style="width: 260px; ">
 </a>
 </div>
-
-![](https://komarev.com/ghpvc/?username=Good4lien&color=green)
