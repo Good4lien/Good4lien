@@ -58,4 +58,4 @@
 </div>
 <br><br>
 
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=https://github.com/Good4lien)
