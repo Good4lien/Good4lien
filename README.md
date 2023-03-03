@@ -22,8 +22,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Good4lien&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
-
-
 ### Connect with me:
 <p align="left" dir="auto">
 <a href="https://t.me/romanbugrin7" rel="nofollow"><img align="center" src="img/Telegram.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
