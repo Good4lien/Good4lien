@@ -24,9 +24,6 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=Good4lien&color=green)
-
-
 ### Connect with me:
 <p align="left" dir="auto">
 <a href="https://t.me/romanbugrin7" rel="nofollow"><img align="center" src="img/Telegram.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
