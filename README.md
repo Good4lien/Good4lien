@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi there, I'm Roman <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>
+    Hello there, I'm Roman <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>
 </h1>
 
 <div class='awards'>
