@@ -56,6 +56,6 @@
 </div>
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&color=red&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DGood4lien&longCache=true)](https://github.com/Good4lien)
+[![GitHub](https://img.shields.io/badge/dynamic/json?label=Followers&color=red&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DGood4lien&longCache=true)](https://github.com/Good4lien)
 ![](https://img.shields.io/badge/dynamic/json?logo=github&label=%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Good4lien)
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=https://github.com/Good4lien)
