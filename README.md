@@ -1,6 +1,7 @@
 <h1 align="center">
 
-    ![download](https://user-images.githubusercontent.com/54048747/223878191-818988b8-34c1-4aba-ac43-0c15c6159ea1.gif)
+    ![download](https://user-images.githubusercontent.com/54048747/223878271-511825ee-8ca5-407f-9211-2cd8f9c2afb2.gif)
+
     
 </h1>
 
