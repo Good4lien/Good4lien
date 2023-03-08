@@ -13,10 +13,9 @@
     
 </h4>
 
-<p align="center">
-
-<br> [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
-</p>
+<div align="center">
+[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Good4lien&show_icons=true&hide_border=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Good4lien&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
