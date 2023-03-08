@@ -1,13 +1,8 @@
-
+<div align="center">
+  
   ![til](./img/download.gif)
-  
-<h1 align="center">
+</div>
 
-    
-  
-
-    
-</h1>
 
 <div class='awards'>
     <img src="img/a1.JPG" alt="a" height="90%" width="90%">
