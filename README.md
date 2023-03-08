@@ -1,5 +1,7 @@
 <h1 align="center">
-    Hello there, I'm Roman <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>
+
+    ![download](https://user-images.githubusercontent.com/54048747/223878191-818988b8-34c1-4aba-ac43-0c15c6159ea1.gif)
+    
 </h1>
 
 <div class='awards'>
