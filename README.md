@@ -15,7 +15,7 @@
 
 <div align="center">
     
-[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/bernth)
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Good4lien&show_icons=true&hide_border=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
