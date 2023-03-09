@@ -20,7 +20,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Good4lien&show_icons=true&hide_border=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Good4lien&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<br>
 ![til](./img/5.gif)
 <p align="left" dir="auto">
 <a href="https://t.me/romanbugrin7" rel="nofollow"><img align="center" src="img/Telegram.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
@@ -28,8 +28,8 @@
 <a href="https://www.instagram.com/roman.bugrin/" rel="nofollow"><img align="center" src="img/inst.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
 <a a rel="noopener" data-link="mailto:romanbugrin7@ya.ru" href="mailto:romanbugrin7@ya.ru" target="_top"><img align="center" src="img/m.svg" alt="1" height="50" width="50" style="max-width: 100%;"></a>
 </p>
-
-### My languages:
+<br>
+![til](./img/6.gif)
 <p align="left" dir="auto">
     <img align="center" src="img/j.jpg" alt="1" height="40" width="27" style="max-width: 100%;">
     <img align="center" src="img/cpp.svg" alt="1" height="45" width="45" style="max-width: 100%;">
