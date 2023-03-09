@@ -1,8 +1,9 @@
-<div align="center">
-  
-  
+<div align="center">  
   ![til](./img/1.gif)
-  
+</div>
+
+<div class='awards' align="center">
+    <img src="img/a1.JPG" alt="a" height="90%" width="90%">
 </div>
 
 <h4 align="center">
@@ -11,11 +12,6 @@
      If you're here please give me stars ⭐ And don't forget to follow
     
 </h4>
-
-<div class='awards' align="center">
-    <img src="img/a1.JPG" alt="a" height="90%" width="90%">
-</div>
-
 
 <div align="center">
     
