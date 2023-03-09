@@ -20,7 +20,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Good4lien&show_icons=true&hide_border=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Good4lien&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+<br><br><br>
 ![til](./img/5.gif)
 <p align="left" dir="auto">
 <a href="https://t.me/romanbugrin7" rel="nofollow"><img align="center" src="img/Telegram.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
