@@ -1,6 +1,6 @@
 <div align="center">  
   
-  ![til](./img/1.gif)
+  ![til](./img/2.gif)
 </div>
 
 <div class='awards' align="center">
