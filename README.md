@@ -11,9 +11,8 @@
     I am a Python programmer with 5 years of experience in software engineering. I specialize in developing user-friendly applications and web services using Python. I also have a good understanding of object-oriented programming and functional programming. I am experienced in using frameworks such as Django and Flask, as well as libraries such as NumPy, Pandas, and SciPy. Additionally, I have developed machine learning projects using TensorFlow and Keras. I have a Bachelor's degree in Computer Science and I am looking to expand my knowledge and experience in the field of Python programming.
     
      If you're here please give me stars ⭐ And don't forget to follow
-    
 </h4>
-
+  
 <div align="center">
     
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/)
@@ -59,10 +58,3 @@
 [![GitHub](https://img.shields.io/badge/dynamic/json?label=Followers&color=red&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DGood4lien&longCache=true)](https://github.com/Good4lien)
 ![](https://img.shields.io/badge/dynamic/json?label=%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Good4lien)
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=https://github.com/Good4lien&color=Chartreuse)
-
-
-<div align="center">
-  
-  ![til](./img/download.gif)
-</div>
-
