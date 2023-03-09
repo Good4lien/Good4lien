@@ -7,7 +7,7 @@
 
 
 <div class='awards' align="center">
-    <img src="img/a1.JPG" alt="a" height="90%" width="90%">
+    <img src="img/a1.JPG" alt="a" height="80%" width="80%">
 </div>
 
 <h4 align="center">
