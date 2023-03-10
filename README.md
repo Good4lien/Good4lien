@@ -1,6 +1,6 @@
 <div align="center">  
 
-<img src="img/me.jpg"  height="20%" width="90%">
+<img src="img/me.jpg"  height="20%" width="20%">
 
 ![til](./img/1.gif)
 <img src="img/a1.JPG" alt="a" height="90%" width="90%">
