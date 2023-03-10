@@ -1,9 +1,9 @@
 <div align="center">  
-  
-  ![til](./img/1.gif)
-</div>
 
-<div class='awards' align="center">
+<img src="img/me.JPG">
+
+![til](./img/1.gif)
+
     <img src="img/a1.JPG" alt="a" height="90%" width="90%">
 </div>
 
