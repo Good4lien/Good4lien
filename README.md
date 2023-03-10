@@ -1,6 +1,6 @@
 <div align="center">  
 
-<img src="img/me.jpg"  height="40%" width="40%">
+<img src="img/me.jpg"  height="90%" width="90%">
 
 ![til](./img/1.gif)
 
@@ -13,9 +13,10 @@
 </h4>
   
 <div align="center">
-<img src="img/a1.JPG" alt="a" height="90%" width="90%">
     
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/)
+    
+<img src="img/a1.JPG" alt="a" height="90%" width="90%">
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Good4lien&show_icons=true&hide_border=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
