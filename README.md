@@ -3,7 +3,7 @@
 <img src="img/me.jpg"  height="40%" width="40%">
 
 ![til](./img/1.gif)
-<img src="img/a1.JPG" alt="a" height="90%" width="90%">
+
 </div>
 
 <h4 align="center">
@@ -13,6 +13,7 @@
 </h4>
   
 <div align="center">
+<img src="img/a1.JPG" alt="a" height="90%" width="90%">
     
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/)
 </div>
