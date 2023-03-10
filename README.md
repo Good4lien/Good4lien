@@ -1,9 +1,10 @@
 <div align="center">  
 
-<img src="img/me.JPG">
+<img src="img/me.jpg">
 
 ![til](./img/1.gif)
 
+    
     <img src="img/a1.JPG" alt="a" height="90%" width="90%">
 </div>
 
