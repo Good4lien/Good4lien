@@ -19,7 +19,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Good4lien&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>  
-<img src="img/ad.JPG" alt="a" height="60px">
+<img src="img/ad.JPG" alt="a" height="40px">
 <img src="img/a1.JPG" alt="a" height="90%" width="90%">
 </div>
 <br><br>
