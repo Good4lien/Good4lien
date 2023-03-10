@@ -11,6 +11,7 @@
 </h4>
   
 <div align="center">
+    
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/)
 </div>
 
@@ -20,6 +21,7 @@
 <div align="center">  
 <img src="img/a1.JPG" alt="a" height="90%" width="90%">
 </div>
+<br><br>
 
 ![til](./img/7.gif)
 <p align="left" dir="auto">
